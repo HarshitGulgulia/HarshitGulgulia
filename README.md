@@ -20,11 +20,11 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of music lover and passionate to work on coding skills",
-		"- 🔭 I’m currently working on":      "Microsoft hackathon",
-		"- 🌱 I’m currently learning":        "Android studio frontend, Python",
-		"- 👯 I’m looking to collaborate on": "Python,C++ ,Android studio related projects",
+		"- 🔭 I’m currently working on":      "Everyhting which comes my way and suits me",
+		"- 🌱 I’m currently learning":        "DSA in C++",
+		"- 👯 I’m looking to collaborate on": "C++, Presentations",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, C++",
+		"- 💬 Ask me about":                  "C, C++",
 		"- 📫 How to reach me:":              "harshitgulgulia@gmail.com",
 	}
 }
