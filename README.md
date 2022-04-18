@@ -21,10 +21,10 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A music lover and passionate to work on coding skills",
 		"- 🔭 I’m currently working on":      "Everyhting which comes my way and suits me",
-		"- 🌱 I’m currently learning":        "DSA in C++, Flutter",
-		"- 👯 I’m looking to collaborate on": "C++, Presentations",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "C, C++",
+		"- 🌱 I’m currently learning":        "DSA in C++",
+		"- 👯 I’m looking to collaborate on": "C++, Flutter, Presentations",
+		"- 🤔 I’m looking for help with":     "Software Development Skills",
+		"- 💬 Ask me about":                  "C, C++, Flutter",
 		"- 📫 How to reach me:":              "harshitgulgulia@gmail.com",
 	}
 }
