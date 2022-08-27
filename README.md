@@ -1,16 +1,7 @@
-# Harshit Gulgulia
-
-## Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/HarshitGulgulia#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/HarshitGulgulia#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harshitgulgulia#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/harshitgulgulia#gh-dark-mode-only)
-&nbsp;&nbsp;
-
+# Harshit Gulgulia [![website](./img/twitter-light.svg)](https://twitter.com/HarshitGulgulia#gh-light-mode-only) [![website](./img/twitter-dark.svg)](https://twitter.com/HarshitGulgulia#gh-dark-mode-only) [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harshitgulgulia#gh-light-mode-only) [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/harshitgulgulia#gh-dark-mode-only)
 
 <h2 align="center">Github Stats</h2>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarshitGulgulia&show_icons=true&theme=synthwave" alt="HarshitGulgulia :: Profile Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGulgulia&langs_count=10&theme=tokyonight&layout=compact" alt="HarshitGulgulia :: Top Langs" /></p>
 
 
