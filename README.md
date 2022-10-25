@@ -4,6 +4,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarshitGulgulia&show_icons=true&theme=synthwave" alt="HarshitGulgulia :: Profile Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGulgulia&langs_count=10&theme=tokyonight&layout=compact" alt="HarshitGulgulia :: Top Langs" /></p>
 
+[![@harshitgulgulia's Holopin board](https://holopin.me/harshitgulgulia)](https://holopin.io/@harshitgulgulia)
 
 <h2 align="center">About Me</h2>
 
